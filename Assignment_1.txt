@@ -1,0 +1,53 @@
+Q2) Which type of Programming does Python support?
+Ans: Python is an object oriented, structured programming language. 
+
+Q3) Is Python case sensitive when dealing with identifiers?
+Ans: When it comes to identifiers, Python is case sensitive.
+
+Q4) What is the correct extension of Python file?
+Ans: The correct extension for Python files is .py. Although, other extensions are used .pyi, .pyc, .pyz, .pyd, .pyw, .pyo.
+
+Q5) Is Python code compiled or interpreted?
+Ans: Python is an interpreted language meaning the source code is converted to byte code and further executed.
+
+Q6) Name the blocks of code used to define in python language
+Ans: Some blocks of code in Python are function body, class or modules.
+
+Q7) State a character used to give single-line comments in Python
+Ans: '#' single hashtag can be used to add single line comments in Python.
+
+Q8) Mention functions which can help us to find the version of Python we are currently working on.
+Ans: The 'sys' function lets us know the version of Python. The code that can be used is as follows:
+import sys
+print("Python version")
+print (sys.version)
+print("Version info.")
+print (sys.version_info)
+
+Q9) Python supports the creation of anonymous functions at runtime, using a construct called 
+Ans: Lambda
+
+Q10) What does pip stand for in Python?
+Ans: pip means Preferred Installer Program. 
+
+Q11) Mention a few built in functions in Python. 
+Ans: There are a lot of prebuilt functions already present in Python like type(), insert(), append(), pop(), etc.
+
+Q12) What is the maximum possible length of an identifier in Python?
+Ans: 79 characters
+
+Q13) What are the benefits of using Python?
+Ans: Python has many benefits,
+1. helps in easy computation of complex problems. 
+2. Has comprehensive libraries of inbuilt functions, reducing the chances of human error.
+3. It is a great language for the purpose of data analysis, data visualisation and task automation.
+
+Q14) How is memory managed in Python?
+Ans: Python uses a private heap storing our program's objects and data structures. There is a static memory, dynamic memory and Python's inbuilt garbage collection. 
+
+Q15) How to install Python on Windows and set path variables?
+Ans: Download from the official website, install it on the PC. Open command prompt and find the location of python on your PC. Then go to advanced system settings and add new variable and name it as PYTHON_NAME and paste the copied path.
+Then look for the path variable, select it's value and select edit. Add a semicolon towards the end of the value if it's not present and then type %PYTHON_HOME%
+
+Q16) Is indentation required in Python?
+Ans: Yes.
